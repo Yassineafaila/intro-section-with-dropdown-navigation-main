@@ -476,7 +476,7 @@ nav .icons .close{
             padding-inline: 1rem;
         }
 }
-@media screen and (min-width:375px) and (max-width:576px){
+@media screen and (min-width:300px) and (max-width:576px){
         .hero{
             align-items: flex-start;
         }
